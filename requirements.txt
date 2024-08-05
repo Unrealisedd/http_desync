@@ -1,0 +1,9 @@
+aiohttp==3.8.4
+aiohttp-socks==0.7.1
+colorama==0.4.6
+matplotlib==3.7.1
+seaborn==0.12.2
+PyYAML==6.0
+SQLite3==2.6.0
+typing-extensions==4.5.0
+urllib3==1.26.15
