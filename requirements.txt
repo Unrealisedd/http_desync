@@ -3,5 +3,4 @@ aiohttp-socks==0.8.0
 colorama==0.4.6
 matplotlib==3.7.2
 seaborn==0.12.2
-SQLite3==2.6.0
 urllib3==2.0.4
