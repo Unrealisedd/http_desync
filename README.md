@@ -20,7 +20,7 @@ This tool is designed to identify and exploit HTTP desynchronization vulnerabili
 
 1. Clone this repository:
  ```
-git clone https://github.com/Unrealisedd/http-desync-exploiter.git
+git clone https://github.com/Unrealisedd/http_desync
  ```
 2. Install the required dependencies:
 ```
